@@ -1,0 +1,13 @@
+C:\Users\Rick\Documents\GitHub\Bayo1-editor\Editor\bin\Release\Bayo1 Save editor.exe.config
+C:\Users\Rick\Documents\GitHub\Bayo1-editor\Editor\bin\Release\Bayo1 Save editor.exe
+C:\Users\Rick\Documents\GitHub\Bayo1-editor\Editor\bin\Release\Bayo1 Save editor.pdb
+C:\Users\Rick\Documents\GitHub\Bayo1-editor\Editor\bin\Release\Bayo1 Save editor.xml
+C:\Users\Rick\Documents\GitHub\Bayo1-editor\Editor\obj\Release\Bayo1Editor.Credits.resources
+C:\Users\Rick\Documents\GitHub\Bayo1-editor\Editor\obj\Release\Bayo1Editor.XC2FieldTypeEditor.resources
+C:\Users\Rick\Documents\GitHub\Bayo1-editor\Editor\obj\Release\Bayo1Editor.XC2MainForm.resources
+C:\Users\Rick\Documents\GitHub\Bayo1-editor\Editor\obj\Release\Bayo1Editor.Resources.resources
+C:\Users\Rick\Documents\GitHub\Bayo1-editor\Editor\obj\Release\Editor.vbproj.GenerateResource.cache
+C:\Users\Rick\Documents\GitHub\Bayo1-editor\Editor\obj\Release\Editor.vbproj.CoreCompileInputs.cache
+C:\Users\Rick\Documents\GitHub\Bayo1-editor\Editor\obj\Release\Bayo1 Save editor.exe
+C:\Users\Rick\Documents\GitHub\Bayo1-editor\Editor\obj\Release\Bayo1 Save editor.xml
+C:\Users\Rick\Documents\GitHub\Bayo1-editor\Editor\obj\Release\Bayo1 Save editor.pdb

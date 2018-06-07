@@ -91,7 +91,10 @@ Partial Class XC2MainForm
         Me.Controls.Add(Me.SaveBtn)
         Me.Controls.Add(Me.SaveAsFileBtn)
         Me.Controls.Add(Me.OpenFileBtn)
+        Me.FormBorderStyle = System.Windows.Forms.FormBorderStyle.Fixed3D
+        Me.HelpButton = True
         Me.Icon = CType(resources.GetObject("$this.Icon"), System.Drawing.Icon)
+        Me.MaximizeBox = False
         Me.Name = "XC2MainForm"
         Me.Text = "Bayonetta Save Editor"
         Me.ResumeLayout(False)

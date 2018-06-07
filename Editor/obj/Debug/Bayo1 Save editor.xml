@@ -29,7 +29,7 @@ Bayo1 Save editor
 </member>
 <member name="T:Bayo1Editor.XC2Data">
  <summary>
- Information required to read an XC2 save file.
+ Information required to read an bayo1 save file.
  </summary>
 </member>
 <member name="T:Bayo1Editor.XC2FieldTypeEditor">

@@ -116,5 +116,7 @@ Public Class XC2MainForm
 
     Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
         Credits.Visible = True
+
     End Sub
+
 End Class

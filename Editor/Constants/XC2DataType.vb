@@ -8,6 +8,7 @@ Public Enum XC2DataType
     Compound_Green
     Compound_Red
     Green_Herb
+    Compound_Red_test
     Mega_Green_Herb
     Purple_Magic
     Mega_Purple_Magic

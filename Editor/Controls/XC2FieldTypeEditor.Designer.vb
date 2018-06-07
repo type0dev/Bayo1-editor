@@ -82,11 +82,11 @@ Partial Class XC2FieldTypeEditor
         'Label1
         '
         Me.Label1.AutoSize = True
-        Me.Label1.Location = New System.Drawing.Point(73, 67)
+        Me.Label1.Location = New System.Drawing.Point(55, 67)
         Me.Label1.Name = "Label1"
-        Me.Label1.Size = New System.Drawing.Size(174, 13)
+        Me.Label1.Size = New System.Drawing.Size(192, 13)
         Me.Label1.TabIndex = 20
-        Me.Label1.Text = "Max items =99 Max halos = 999999"
+        Me.Label1.Text = "Max items = 99, Max halos = 99999999"
         '
         'XC2FieldTypeEditor
         '

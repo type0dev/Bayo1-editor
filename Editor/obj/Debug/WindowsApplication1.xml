@@ -1,0 +1,140 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+WindowsApplication1
+</name>
+</assembly>
+<members>
+<member name="T:WindowsApplication1.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:WindowsApplication1.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:WindowsApplication1.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:WindowsApplication1.XC2DataType">
+ <summary>
+ Field values present in an XC2 save file.
+ </summary>
+</member>
+<member name="T:WindowsApplication1.XC2Data">
+ <summary>
+ Information required to read an XC2 save file.
+ </summary>
+</member>
+<member name="M:WindowsApplication1.HexEditor.ReadAsDecimal(System.Byte[],WindowsApplication1.HexDataInfo)">
+ <summary>
+ Starts at the offset given, then converts each byte into a hex string.
+ </summary>
+ <param name="fileBytes">The data to read from.</param>
+ <param name="info">The offset to look for and the number of bytes to read.</param>
+ <returns>The read bytes, converted into a usable value for the end-user.</returns>
+</member>
+<member name="M:WindowsApplication1.HexEditor.ReadHexData(System.Byte[],WindowsApplication1.HexDataInfo)">
+ <summary>
+ Starts at the offset given, then converts each byte into a hex string.
+ </summary>
+ <param name="fileBytes">The data to read from.</param>
+ <param name="info">The offset to look for and the number of bytes to read.</param>
+ <returns>Each byte read as a hexadecimal string.</returns>
+</member>
+<member name="M:WindowsApplication1.HexEditor.ReadHexDataAtOffset(System.Byte[],System.Int32,System.Int32)">
+ <summary>
+ Starts at the offset given, then converts each byte into a hex string.
+ </summary>
+ <param name="fileBytes">The data to read from.</param>
+ <param name="offset">The offset to start at.</param>
+ <param name="bytesToRead">The number of bytes to read.</param>
+ <returns>Each byte read as a hexadecimal string.</returns>
+</member>
+<member name="M:WindowsApplication1.HexEditor.SaveDecimalValue(System.Byte[],WindowsApplication1.HexDataInfo,System.Int32)">
+ <summary>
+ Modifies the provided data with the given value.
+ </summary>
+ <param name="fileBytes">The data to write to.</param>
+ <param name="info">The offset to look for.</param>
+ <param name="value">The number to save.</param>
+</member>
+<member name="M:WindowsApplication1.HexEditor.SaveHexData(System.Byte[],WindowsApplication1.HexDataInfo,System.Byte[])">
+ <summary>
+ Modifies the provided byte array with the values provided.
+ </summary>
+ <param name="fileBytes">The data to write to.</param>
+ <param name="info">The offset to look for.</param>
+ <param name="bytesToSave">The bytes to save.</param>
+</member>
+<member name="M:WindowsApplication1.HexEditor.SaveHexDataAtOffset(System.Byte[],System.Int32,System.Byte[])">
+ <summary>
+ Modifies the provided byte array with the values provided.
+ </summary>
+ <param name="fileBytes">The data to write to.</param>
+ <param name="offset">The offset to start at.</param>
+ <param name="bytesToSave">The bytes to save.</param>
+</member>
+<member name="P:WindowsApplication1.MainForm.CanEdit">
+ <summary>
+ Whether a file is loaded and that file can be edited.
+ </summary>
+</member>
+<member name="P:WindowsApplication1.MainForm.CurrentValue">
+ <summary>
+ The value being edited.
+ </summary>
+</member>
+<member name="P:WindowsApplication1.MainForm.SelectedHexDataInfo">
+ <summary>
+ Info about the currently selected field.
+ </summary>
+</member>
+<member name="M:WindowsApplication1.MainForm.OnInitialLoad(WindowsApplication1.MainForm,System.EventArgs)">
+ <summary>
+ Handles setup for the app.
+ </summary>
+</member>
+<member name="M:WindowsApplication1.MainForm.SelectField(System.Windows.Forms.ComboBox,System.EventArgs)">
+ <summary>
+ Changes the field being edited.
+ </summary>
+</member>
+<member name="M:WindowsApplication1.MainForm.OpenFile(System.Windows.Forms.Button,System.EventArgs)">
+ <summary>
+ Presents the user with an open file dialog, then loads the file they specify.
+ </summary>
+</member>
+<member name="M:WindowsApplication1.MainForm.SaveFile(System.Windows.Forms.Button,System.EventArgs)">
+ <summary>
+ Saves the currently loaded file, overwriting the currently selected file.
+ </summary>
+</member>
+<member name="M:WindowsApplication1.MainForm.SaveUpdatedFieldValue(System.Windows.Forms.Button,System.EventArgs)">
+ <summary>
+ Saves the value on the UI back to bytes in memory.
+ </summary>
+</member>
+<member name="M:WindowsApplication1.MainForm.SaveFileAs(System.Windows.Forms.Button,System.EventArgs)">
+ <summary>
+ Presents the user with a save file dialog, then saves the currently loaded copy of the save file to the location they specify.
+ </summary>
+</member>
+<member name="M:WindowsApplication1.MainForm.RaisePropertyChanged(System.ComponentModel.PropertyChangedEventArgs)">
+ <summary>
+ Tell the UI to update after a value was programatically changed. If this is not called, the UI will not know a value has updated.
+ </summary>
+</member>
+<member name="T:WindowsApplication1.HexDataInfo">
+ <summary>
+ Represents a section of data in the save file.
+ </summary>
+</member>
+</members>
+</doc>

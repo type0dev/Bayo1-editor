@@ -1,0 +1,81 @@
+C:\Users\perso\Desktop\XC2SaveEditor\Editor\bin\Debug\WindowsApplication1.exe.config
+C:\Users\perso\Desktop\XC2SaveEditor\Editor\bin\Debug\WindowsApplication1.exe
+C:\Users\perso\Desktop\XC2SaveEditor\Editor\bin\Debug\WindowsApplication1.pdb
+C:\Users\perso\Desktop\XC2SaveEditor\Editor\bin\Debug\WindowsApplication1.xml
+C:\Users\perso\Desktop\XC2SaveEditor\Editor\obj\Debug\Editor.vbprojAssemblyReference.cache
+C:\Users\perso\Desktop\XC2SaveEditor\Editor\obj\Debug\WindowsApplication1.MainForm.resources
+C:\Users\perso\Desktop\XC2SaveEditor\Editor\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\perso\Desktop\XC2SaveEditor\Editor\obj\Debug\Editor.vbproj.GenerateResource.cache
+C:\Users\perso\Desktop\XC2SaveEditor\Editor\obj\Debug\Editor.vbproj.CoreCompileInputs.cache
+C:\Users\perso\Desktop\XC2SaveEditor\Editor\obj\Debug\Editor.vbproj.CopyComplete
+C:\Users\perso\Desktop\XC2SaveEditor\Editor\obj\Debug\WindowsApplication1.exe
+C:\Users\perso\Desktop\XC2SaveEditor\Editor\obj\Debug\WindowsApplication1.xml
+C:\Users\perso\Desktop\XC2SaveEditor\Editor\obj\Debug\WindowsApplication1.pdb
+C:\Users\perso\source\repos\XC2SaveEditor\Editor\obj\Debug\Editor.vbprojAssemblyReference.cache
+C:\Users\perso\source\repos\XC2SaveEditor\Editor\obj\Debug\Editor.vbproj.GenerateResource.cache
+C:\Users\perso\source\repos\XC2SaveEditor\Editor\obj\Debug\Editor.vbproj.CoreCompileInputs.cache
+C:\Users\perso\source\repos\XC2SaveEditor\Editor\bin\Debug\XC2Editor.exe.config
+C:\Users\perso\source\repos\XC2SaveEditor\Editor\bin\Debug\XC2Editor.exe
+C:\Users\perso\source\repos\XC2SaveEditor\Editor\bin\Debug\XC2Editor.pdb
+C:\Users\perso\source\repos\XC2SaveEditor\Editor\bin\Debug\XC2Editor.xml
+C:\Users\perso\source\repos\XC2SaveEditor\Editor\obj\Debug\XC2Editor.Resources.resources
+C:\Users\perso\source\repos\XC2SaveEditor\Editor\obj\Debug\XC2Editor.exe
+C:\Users\perso\source\repos\XC2SaveEditor\Editor\obj\Debug\XC2Editor.xml
+C:\Users\perso\source\repos\XC2SaveEditor\Editor\obj\Debug\XC2Editor.pdb
+C:\Users\Rick\Desktop\XC2SaveEditor\Editor\bin\Debug\XC2Editor.exe.config
+C:\Users\Rick\Desktop\XC2SaveEditor\Editor\bin\Debug\XC2Editor.exe
+C:\Users\Rick\Desktop\XC2SaveEditor\Editor\bin\Debug\XC2Editor.pdb
+C:\Users\Rick\Desktop\XC2SaveEditor\Editor\bin\Debug\XC2Editor.xml
+C:\Users\Rick\Desktop\XC2SaveEditor\Editor\obj\Debug\Editor.vbprojAssemblyReference.cache
+C:\Users\Rick\Desktop\XC2SaveEditor\Editor\obj\Debug\XC2Editor.Resources.resources
+C:\Users\Rick\Desktop\XC2SaveEditor\Editor\obj\Debug\Editor.vbproj.GenerateResource.cache
+C:\Users\Rick\Desktop\XC2SaveEditor\Editor\obj\Debug\Editor.vbproj.CoreCompileInputs.cache
+C:\Users\Rick\Desktop\XC2SaveEditor\Editor\obj\Debug\XC2Editor.exe
+C:\Users\Rick\Desktop\XC2SaveEditor\Editor\obj\Debug\XC2Editor.xml
+C:\Users\Rick\Desktop\XC2SaveEditor\Editor\obj\Debug\XC2Editor.pdb
+C:\Users\perso\AppData\Local\Temp\XC2SaveEditor\Editor\bin\Debug\XC2Editor.exe.config
+C:\Users\perso\AppData\Local\Temp\XC2SaveEditor\Editor\bin\Debug\XC2Editor.exe
+C:\Users\perso\AppData\Local\Temp\XC2SaveEditor\Editor\bin\Debug\XC2Editor.pdb
+C:\Users\perso\AppData\Local\Temp\XC2SaveEditor\Editor\bin\Debug\XC2Editor.xml
+C:\Users\perso\AppData\Local\Temp\XC2SaveEditor\Editor\obj\Debug\XC2Editor.XC2FieldTypeEditor.resources
+C:\Users\perso\AppData\Local\Temp\XC2SaveEditor\Editor\obj\Debug\XC2Editor.Resources.resources
+C:\Users\perso\AppData\Local\Temp\XC2SaveEditor\Editor\obj\Debug\XC2Editor.MainForm.resources
+C:\Users\perso\AppData\Local\Temp\XC2SaveEditor\Editor\obj\Debug\Editor.vbproj.GenerateResource.cache
+C:\Users\perso\AppData\Local\Temp\XC2SaveEditor\Editor\obj\Debug\Editor.vbproj.CoreCompileInputs.cache
+C:\Users\perso\AppData\Local\Temp\XC2SaveEditor\Editor\obj\Debug\XC2Editor.exe
+C:\Users\perso\AppData\Local\Temp\XC2SaveEditor\Editor\obj\Debug\XC2Editor.xml
+C:\Users\perso\AppData\Local\Temp\XC2SaveEditor\Editor\obj\Debug\XC2Editor.pdb
+C:\Users\perso\AppData\Local\Temp\XC2SaveEditor\Editor\obj\Debug\Editor.vbprojAssemblyReference.cache
+C:\Users\perso\source\repos\XC2SaveEditor\Editor\obj\Debug\XC2Editor.XC2FieldTypeEditor.resources
+C:\Users\perso\source\repos\XC2SaveEditor\Editor\obj\Debug\XC2Editor.XC2MainForm.resources
+C:\Users\Rick\Desktop\XC2SaveEditor\Editor\obj\Debug\XC2Editor.XC2FieldTypeEditor.resources
+C:\Users\Rick\Desktop\XC2SaveEditor\Editor\obj\Debug\XC2Editor.XC2MainForm.resources
+C:\Users\Rick\Desktop\XC2SaveEditor\Editor\obj\Debug\XC2Editor.Credits.resources
+C:\Users\Rick\Desktop\Bayo1 Editor\Editor\bin\Debug\XC2Editor.exe.config
+C:\Users\Rick\Desktop\Bayo1 Editor\Editor\bin\Debug\XC2Editor.exe
+C:\Users\Rick\Desktop\Bayo1 Editor\Editor\bin\Debug\XC2Editor.pdb
+C:\Users\Rick\Desktop\Bayo1 Editor\Editor\bin\Debug\XC2Editor.xml
+C:\Users\Rick\Desktop\Bayo1 Editor\Editor\obj\Debug\Editor.vbprojAssemblyReference.cache
+C:\Users\Rick\Desktop\Bayo1 Editor\Editor\obj\Debug\XC2Editor.Credits.resources
+C:\Users\Rick\Desktop\Bayo1 Editor\Editor\obj\Debug\XC2Editor.XC2FieldTypeEditor.resources
+C:\Users\Rick\Desktop\Bayo1 Editor\Editor\obj\Debug\XC2Editor.XC2MainForm.resources
+C:\Users\Rick\Desktop\Bayo1 Editor\Editor\obj\Debug\XC2Editor.Resources.resources
+C:\Users\Rick\Desktop\Bayo1 Editor\Editor\obj\Debug\Editor.vbproj.GenerateResource.cache
+C:\Users\Rick\Desktop\Bayo1 Editor\Editor\obj\Debug\Editor.vbproj.CoreCompileInputs.cache
+C:\Users\Rick\Desktop\Bayo1 Editor\Editor\obj\Debug\XC2Editor.exe
+C:\Users\Rick\Desktop\Bayo1 Editor\Editor\obj\Debug\XC2Editor.xml
+C:\Users\Rick\Desktop\Bayo1 Editor\Editor\obj\Debug\XC2Editor.pdb
+C:\Users\Rick\Desktop\bay1\Bayo1 Editor\Editor\obj\Debug\Editor.vbprojAssemblyReference.cache
+C:\Users\Rick\Desktop\bay1\Bayo1 Editor\Editor\obj\Debug\Editor.vbproj.GenerateResource.cache
+C:\Users\Rick\Desktop\bay1\Bayo1 Editor\Editor\obj\Debug\Editor.vbproj.CoreCompileInputs.cache
+C:\Users\Rick\Desktop\bay1\Bayo1 Editor\Editor\obj\Debug\Bayo1Editor.Credits.resources
+C:\Users\Rick\Desktop\bay1\Bayo1 Editor\Editor\obj\Debug\Bayo1Editor.XC2FieldTypeEditor.resources
+C:\Users\Rick\Desktop\bay1\Bayo1 Editor\Editor\obj\Debug\Bayo1Editor.XC2MainForm.resources
+C:\Users\Rick\Desktop\bay1\Bayo1 Editor\Editor\obj\Debug\Bayo1Editor.Resources.resources
+C:\Users\Rick\Desktop\bay1\Bayo1 Editor\Editor\bin\Debug\Bayo1 Save editor.exe.config
+C:\Users\Rick\Desktop\bay1\Bayo1 Editor\Editor\bin\Debug\Bayo1 Save editor.exe
+C:\Users\Rick\Desktop\bay1\Bayo1 Editor\Editor\bin\Debug\Bayo1 Save editor.pdb
+C:\Users\Rick\Desktop\bay1\Bayo1 Editor\Editor\bin\Debug\Bayo1 Save editor.xml
+C:\Users\Rick\Desktop\bay1\Bayo1 Editor\Editor\obj\Debug\Bayo1 Save editor.exe
+C:\Users\Rick\Desktop\bay1\Bayo1 Editor\Editor\obj\Debug\Bayo1 Save editor.xml
+C:\Users\Rick\Desktop\bay1\Bayo1 Editor\Editor\obj\Debug\Bayo1 Save editor.pdb
